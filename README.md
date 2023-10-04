@@ -1,1 +1,1 @@
-Collection of Machine Learning algorithms coded from scratch
+###Collection of Machine Learning algorithms coded from scratch
